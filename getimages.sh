@@ -1,6 +1,4 @@
 #!/bin/bash
-#by Manuel Verhoeven
-#student number: 10480891 
 
 #content:
 #1.     Defining minor functions
